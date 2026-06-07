@@ -1,2 +1,2 @@
-# Bodhi-cafe-menu
+index.html
 Digital Menu for bodhi cafe
