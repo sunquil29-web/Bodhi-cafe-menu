@@ -1,2 +1,3 @@
-index.html
-Digital Menu for bodhi cafe
+
+Live Website:
+https://sunquil29-web.github.io/Bodhi-cafe-menu/
